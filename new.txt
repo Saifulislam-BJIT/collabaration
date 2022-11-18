@@ -1,1 +1,5 @@
+
 new  txt file added
+
+Hello, I am new text file.
+
