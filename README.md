@@ -1,2 +1,2 @@
 # 😁🙄
-# This is a collabaratior project with Ihasan, Saiful and Sizan
+# This is a collabaratior project with Ihsan, Saiful and Sizan
